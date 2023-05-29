@@ -1,4 +1,9 @@
 #include "main.h"
+#include "get_flags.c"
+#include "get_width.c"
+#include "get_precision.c"
+#include "get_size.c"
+#include "handle_print.c"
 
 void print_buffer(char buffer[], int *buff_ind);
 
